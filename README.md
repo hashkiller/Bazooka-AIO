@@ -1,4 +1,4 @@
-# 🔎 HASHKILLER AIO
+# 🔎 BAZOOKA AIO
 
 An all-in-one tool to quickly check if accounts are valid.
 
